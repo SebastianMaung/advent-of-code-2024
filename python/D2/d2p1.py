@@ -1,3 +1,4 @@
+#for "BAD X", X doesn't really apply to any of the rules, I just wanted to keep track while testing each case
 a = open("d2data.txt")
 b=""
 safe = 0
