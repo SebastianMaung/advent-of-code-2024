@@ -1,3 +1,4 @@
+#an attempt, doesnt work :'(
 a = open("2024\python\D2\d2data.txt")
 b=""
 num = ""
